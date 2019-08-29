@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form>
-    <fieldset name="slide">
+    <fieldset name="collector">
         <field name="imgbig" type="media"
             label="MOD_COL_LABEL_IMGBIG"
             description="MOD_COL_DESCRIPTION_IMGBIG" />
